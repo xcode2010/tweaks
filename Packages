@@ -1,18 +1,20 @@
-Package: beta
-Version: 1.0
+Package: io.fengzibarmoji
+Version: 1.3.2
 Architecture: iphoneos-arm
-Maintainer: 他是个疯子
-Installed-Size: 15
-Filename: ./debs/beta_1.0_iphoneos-arm.deb
-Size: 1000
-MD5sum: bd9d06ff29b26663eebae77dd386065b
-SHA1: 19023dd93250405136c10e1ec3c42d1122ed03da
-SHA256: 0c0ce3d0aae8036ec2c5324a0a87fd6bbb41f43da1e910cbffb6dcdc3feb0d6f
+Maintainer: 他是个疯子 <409774743@qq.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/io.fengzibarmoji_1.3.2_iphoneos-arm.deb
+Size: 24128
+MD5sum: 1cb01eefb9040aefb09aa78a7aa3e9a3
+SHA1: edf5fc6eb2dab1e31247e2e06fc9139f9ef0e480
+SHA256: 1dc37650612d4ae68abfd72c2cfe3fe9c505bd3c68de5e397392d04e83d87de3
 Section: Tweaks
-Homepage: https://sileo-cydia.github.io/ms/description.html?id=sileo-installer
-Description: 这里是描述插件的简介,此插件只是一个样板文件,供大家学习研究使用,为制作更好的越狱环境,请大家不要不要恶意修改插件文件,修改原创作者,不上传恶意插件,源文件描述详情适配cydia跟sileo,他是个疯子
-Author: 他是个疯子
-Depiction: https://sileo-cydia.github.io/ms/description.html?id=sileo-installer
-Name: 样板测试文件
-Sileodepiction: https://sileo-cydia.github.io/ms/msxq/sileo-installer.json
+Homepage: https://fengzijiaocheng.github.io/repo/ms/description.html?id=io.fengzibarmoji
+Description: 为iphoneX键盘下方添加快捷表情
+Tag: purpose::extension, compatible_min::ios10, compatible_max::ios11.4
+Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Depiction: https://fengzijiaocheng.github.io/repo/ms/description.html?id=io.fengzibarmoji
+Name: 快捷表情」
+Sileodepiction: https://fengzijiaocheng.github.io/repo/ms/msxq/io.fengzibarmoji.json
 
