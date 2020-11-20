@@ -1,5 +1,5 @@
 #!/bin/sh
-标题
+#标题
 perl -p -i -e "s/852359/快捷表情/g"  cydia副本 sileo副本.json
 #描述
 perl -p -i -e "s/852360/为iphoneX键盘下方添加快捷表情/g"  cydia副本 sileo副本.json
